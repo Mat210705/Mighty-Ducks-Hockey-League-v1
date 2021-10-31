@@ -1,0 +1,78 @@
+h1 {
+    height: 70vh;
+    background-image: url("../img/design1.jpg");
+    background-size: cover;
+    color: white;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+
+.brand {
+    position: absolute;
+    top: 50vh;
+    left: 75vw;
+}
+
+nav {
+    float: left;
+}
+
+nav a {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    padding: 10vh;
+    width: 10vw;
+    margin: 0px;
+}
+
+.container2 {
+    padding: 10vh
+}
+
+main p {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1vh;
+}
+
+.box1 {
+    padding: 1vh;
+}
+
+.box2 {
+    padding: 1vh;
+}
+
+.box3 {
+    padding: 1vh;
+}
+
+.seccion {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.seccion p {
+    padding: 2vw;
+}
+
+.mailto {
+    display: flex;
+    justify-content: center;
+    padding: 10vh
+}
+
+.contact p {
+    display: flex;
+    justify-content: center
+}
